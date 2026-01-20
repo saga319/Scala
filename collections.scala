@@ -3,7 +3,7 @@ object colle{
         val lis = List(1,2,3,4,5,6)
         println(s"${lis(1)} ,accesing the elemet in list")
         for(i <- lis){
-            println(i)
+            println(i + "12")
         }
 
         val arr = Array("hi","how","are")
